@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Room Reservation</string>
+    <string name="Name">Room Reservation</string>
+    <string name="BackButton">Back</string>
+    <string name="ReserveNo">Reservation No</string>
+    <string name="Select_Room_Type">*Select Room Type</string>
+    <string name="Room_Type">Room Type</string>
+    <string name="Beds">No Of Beds</string>
+    <string name="No_Of_Adults">No. Of Adults</string>
+    <string name="No_Of_Kids">No. Of Kids</string>
+    <string name="No_Of_Room">No. Of Room</string>
+    <string name="Check_In_Date">Check In Date</string>
+    <string name="Check_Out_Date">Check Out Date</string>
+    <string name="Requirments">Remarks</string>
+    <string name="SearchRoom">Search Room</string>
+    <string name="DeleteButton">Delete Reservation</string>
+    <string name="UpdateButton">Update Reservation</string>
+    <string name="ConfirmBooking">Confirm Reservation</string>
+    <string name="RoomType1">Normal</string>
+    <string name="RoomType2">King</string>
+    <string name="RoomType3">Queen</string>
+    <string name="RoomType4">Deluxe</string>
+    <string name="ProceedingMessage">Do you want to Reserve a vehicle?</string>
+    <string name="ContactUs">CONTACT US 0111234567</string>
+    <string name="ceylon_trips_tramps"><![CDATA[Ceylon Trips & Tramps]]></string>
+    <string name="todo">TODO</string>
+
+    <string-array name="Menu">
+        <item>Menu</item>
+        <item>Home</item>
+        <item>About US</item>
+        <item>Contact US</item>
+        <item>Profile</item>
+
+    </string-array>
+
+</resources>
