@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">complaint</string>
+    <string name="option1">Option</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_complaints">Enter your complaints</string>
+    <string name="complaints">COMPLAINTS</string>
+    <string name="option">Option</string>
+    <string name="todo">todo</string>
+    <string name="ceylon_trips_tramps"><![CDATA[Ceylon Trips & Tramps]]></string>
+
+    <string-array name="Menu">
+        <item>Menu</item>
+        <item>Home</item>
+        <item>About US</item>
+        <item>Contact US</item>
+        <item>Profile</item>
+
+    </string-array>
+</resources>
