@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FCupdatedelete2</string>
+    <string name="jfhgdfbfdnzdcxvcbvbn_mjlk">jfhgdfbfdnzdcxvcbvbn,mjlk</string>
+    <string name="jgfdxcvbjkl_mnhjgfcjg">jgfdxcvbjkl,mnhjgfcjg</string>
+    <string name="delete1">Delete</string>
+    <string name="option">Option</string>
+    <string name="update1">Update</string>
+    <string name="update">Update</string>
+    <string name="entered_complaints">Entered Complaints</string>
+    <string name="delete">Delete</string>
+    <string name="todo">Todo</string>
+    <string name="ceylon_trips_tramps"><![CDATA[Ceylon Trips & Tramps]]></string>
+
+    <string-array name="Menu">
+        <item>Menu</item>
+        <item>Home</item>
+        <item>About US</item>
+        <item>Contact US</item>
+        <item>Profile</item>
+
+    </string-array>
+</resources>
