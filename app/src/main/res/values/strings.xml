@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">CEYLON TRIPS AND TRAMPS</string>
+    <string name="ceylon">Ceylon</string>
+    <string name="trips_and_tramps">Trips and Tramps</string>
+    <string name="logo">LOGO</string>
+
+    <string name="app_name1">B</string>
+    <string name="tr">Tour Guide Reservation</string>
+    <string name="tr_d">Tour Guide Details</string>
+    <string name="button">View Details</string>
+    <string name="todo">TODO</string>
+    <string name="textview2">Package 01</string>
+    <string name="rs1">T.SILVA</string>
+    <string name="tr2">ANTON</string>
+    <string name="rs3">SUPUN</string>
+    <string name="tr4">OBAMA</string>
+    <string name="button2">view details</string>
+    <string name="button3">Reserve</string>
+    <string name="TR1">TOUR GUIDE ID</string>
+    <string name="TR2">NAME</string>
+    <string name="TR3">AGE</string>
+    <string name="TR4">EMAIL</string>
+    <string name="TR6">LANGUAGE</string>
+    <string name="TR5">AMOUNT</string>
+    <string name="RSTBTN">RESERVE TOUR GUIDE</string>
+    <string name="TRD1">TR0001</string>
+    <string name="TRD2">T.SILVA</string>
+    <string name="TRD3">43</string>
+    <string name="TRD4">tr.silva@tandt.com</string>
+    <string name="TRD05">ENGLISH</string>
+    <string name="TRD6">1000$</string>
+    <string name="backbt1">Back</string>
+    <string name="backbt2">BACK TO RESERVATION</string>
+
+
+    <string name="pk_d">Package Details</string>
+    <string name="PK1">PACKAGE TYPE</string>
+    <string name="PK2">TOUR GUIDE NAME</string>
+    <string name="PK3">DISTANCE COVERED</string>
+    <string name="PK4">PLACES</string>
+    <string name="PK6">DAYS</string>
+    <string name="PK5">HOTEL NAME</string>
+    <string name="PK7">AMOUNT</string>
+    <string name="PKBTN">RESERVE PACKAGE</string>
+    <string name="TRPKBTN">UPDATE TOUR GUIDE</string>
+    <string name="P1">PREMIUM</string>
+    <string name="P2">T.SILVA</string>
+    <string name="P3">200KM</string>
+    <string name="P4">SIGIRIYA</string>
+    <string name="P5">3</string>
+    <string name="P6">DON LAKE RESORT</string>
+    <string name="P7">1000$</string>
+
+    <string name="up">update</string>
+    <string name="upt">UPDATE TOUR GUIDE</string>
+
+    <string name="vc">view chart</string>
+
+
+    <string name="jan">JANUARY</string>
+    <string name="feb">FEBRUARY</string>
+    <string name="mar">MARCH</string>
+    <string name="april">APRIL</string>
+    <string name="may">MAY</string>
+    <string name="june">JUNE</string>
+    <string name="j">02</string>
+    <string name="f">0</string>
+    <string name="mr">03</string>
+    <string name="ar">0</string>
+    <string name="my">0</string>
+    <string name="jn">3</string>
+
+    <string name="sum">08</string>
+    <string name="trname">Total</string>
+    <string name="count">RESERVATION COUNT</string>
+
+
+    <string-array name="Menu">
+        <item>Menu</item>
+        <item>Home</item>
+        <item>About US</item>
+        <item>Contact US</item>
+        <item>Profile</item>
+
+    </string-array>
+</resources>
