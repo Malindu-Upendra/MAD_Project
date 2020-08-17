@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">feedback</string>
+    <string name="option">Option</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_feedback">Enter your Feedback</string>
+    <string name="ceylon_trips_tramps"><![CDATA[Ceylon Trips & Tramps]]></string>
+    <string name="todo">todo</string>
+    <string name="feedback">FEEDBACK</string>
+
+    <string-array name="Menu">
+        <item>Menu</item>
+        <item>Home</item>
+        <item>About US</item>
+        <item>Contact US</item>
+        <item>Profile</item>
+
+    </string-array>
+</resources>
