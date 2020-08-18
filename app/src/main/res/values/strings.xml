@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">B</string>
+    <string name="ceylon">Ceylon Trips and Tramps</string>
+    <string name="logo">LOGO</string>
+
+    <string name="app_name1">B</string>
+    <string name="vehicle_reservation">Vehicle Reservation</string>
+    <string name="available_vehicles">Available Vehicles</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="vehicle_brand">Vehicle Brand</string>
+    <string name="search">Search</string>
+    <string name="or">OR</string>
+    <string name="Vehicle1">Vehicle 01</string>
+    <string name="vehicle_01">Vehicle 01</string>
+    <string name="view">View</string>
+    <string name="vehicle_02">Vehicle 02</string>
+    <string name="vehicle_03">Vehicle 03</string>
+    <string name="vehicle_04">Vehicle 04</string>
+    <string name="vehicle_05">Vehicle 05</string>
+    <string name="vehicle_detail">Vehicle Details</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="amount_for_oneday">Amount For Oneday</string>
+    <string name="todo">TODO</string>
+    <string name="blank1">: _________________</string>
+    <string name="blank2">: ________________</string>
+    <string name="blank3">: ______________</string>
+    <string name="blank4">: __________</string>
+    <string name="back">Back</string>
+    <string name="confirm">Confirm</string>
+    <string name="vehicle_details">Vehicle Details</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="Profile">Profile</string>
+    <string-array name="menu">
+        <item>Menu</item>
+        <item>Home</item>
+        <item>About US</item>
+        <item>Contact US</item>
+        <item>Profile</item>
+    </string-array>
+</resources>
